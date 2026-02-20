@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "message",
+  "base_artist": "04 Limited Sazabys",
+  "createdAt": "2026-02-20T13:09:50.533173Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Message In A Bottle",
+      "artist": "The Police",
+      "has_synced": true,
+      "path": "select/01_Message_In_A_Bottle_The_Police.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Message",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/02_A_Message_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "然后怎样 + Hidden Message",
+      "artist": "陈奕迅",
+      "has_synced": true,
+      "path": "select/03_然后怎样_+_Hidden_Message_陈奕迅.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Message",
+      "artist": "Wu-Tang Clan",
+      "has_synced": true,
+      "path": "select/04_Message_Wu-Tang_Clan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Get the Message",
+      "artist": "Lusine",
+      "has_synced": true,
+      "path": "select/05_Get_the_Message_Lusine.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Message from the Past",
+      "artist": "Golem",
+      "has_synced": false,
+      "path": "select/06_Message_from_the_Past_Golem.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Message",
+      "artist": "M.I.A.",
+      "has_synced": true,
+      "path": "select/07_The_Message_M.I.A..lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Message",
+      "artist": "Mike Peters",
+      "has_synced": false,
+      "path": "select/08_The_Message_Mike_Peters.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Message",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/09_The_Message_Nas.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Trouble in the Message Centre",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/10_Trouble_in_the_Message_Centre_Blur.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gabriel's Message",
+      "artist": "Hayley Westenra",
+      "has_synced": true,
+      "path": "select/11_Gabriel's_Message_Hayley_Westenra.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "A Message 2 Fat Cuzz",
+      "artist": "Snoop Dogg",
+      "has_synced": false,
+      "path": "select/12_A_Message_2_Fat_Cuzz_Snoop_Dogg.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Message to You",
+      "artist": "Scatman John",
+      "has_synced": true,
+      "path": "select/13_Message_to_You_Scatman_John.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "05 - Message To You",
+      "artist": "Scatman John",
+      "has_synced": true,
+      "path": "select/14_05_-_Message_To_You_Scatman_John.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Message (feat. TyFontaine)",
+      "artist": "Internet Money feat. TyFontaine",
+      "has_synced": true,
+      "path": "select/15_Message_(feat._TyFontaine)_Internet_Money_feat._TyFontaine.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Message (feat. TyFontaine)",
+      "artist": "Internet Money",
+      "has_synced": true,
+      "path": "select/16_Message_(feat._TyFontaine)_Internet_Money.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Got the Message",
+      "artist": "Men Without Hats",
+      "has_synced": true,
+      "path": "select/17_I_Got_the_Message_Men_Without_Hats.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "message",
+      "artist": "04 Limited Sazabys",
+      "has_synced": false,
+      "path": "select/pl_01_message_04_Limited_Sazabys.txt"
+    }
+  ]
+}
